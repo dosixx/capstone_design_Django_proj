@@ -1,0 +1,1 @@
+# capstone_design_Django_proj
